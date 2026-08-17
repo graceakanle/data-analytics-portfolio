@@ -38,3 +38,17 @@ The project explores employee age, gender, occupation, department, salary, salar
 ## Project Status
 
 Completed
+## Power BI Dashboard
+
+The dashboard provides an interactive view of employee demographics, salary patterns, departmental performance, gender distribution, and salary-related risk indicators.
+
+![Parks and Recreation Employee Analytics Dashboard](IMG-20260501-WA0190.jpg)
+
+## Key Insights
+
+- The dataset contains 12 employees.
+- The average employee salary is $57,250.
+- The minimum salary is $20,000, while the maximum salary is $90,000.
+- Public Works has the highest average salary among the departments shown.
+- The dashboard identifies 4 employees flagged as high risk based on the project risk criteria.
+- Salary and age distributions provide additional insight into workforce composition.
